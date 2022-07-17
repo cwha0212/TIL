@@ -10,7 +10,7 @@ from sensor_msgs.msg import LaserScan
 
 class ParkingNode(Node):
 
-		def __init__(self):
+	def __init__(self):
         super().__init__('parking_node')
 
         self.publisher = self.create_publisher(Twist, 'skidbot/cmd_vel', 10)
