@@ -90,3 +90,9 @@
 - ROS2 12강 수강
 - `Service`의 개념과 Command에 대해 배움
 - Python에서 Node작성 시 필요한 `Entry Point` 추가에 대해 배움
+
+---
+
+## 2022.07.22
+- ROS2 13강 수강
+- `Service Client, Server`을 Python을 이용하여 프로그래밍 하는 법을 배움
