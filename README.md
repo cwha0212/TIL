@@ -96,3 +96,9 @@
 ## 2022.07.22
 - ROS2 13강 수강
 - `Service Client, Server`을 Python을 이용하여 프로그래밍 하는 법을 배움
+
+---
+
+## 2022.07.23
+- ROS2 14강 수강
+- `Service Client, Server`을 C++을 이용하여 프로그래밍 하는 법을 배움
